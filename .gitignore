@@ -2,4 +2,4 @@
 *.d
 ./obj
 ./bin
-./bin/myapp
+./bin/*
